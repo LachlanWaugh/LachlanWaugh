@@ -1,5 +1,4 @@
-<h3 align="center">Hello there! I'm Lachlan</h3>
-<h4 align="center">:wave:</h4>
+<h3 align="center">Hello there! I'm Lachlan :wave:</h3>
 <p align="center">
   <a href="https://lwaugh.io">lwaugh.io</a>
   •
