@@ -1,4 +1,10 @@
-## Hello friend! :wave:
+<h3 align="center">Hello there! I'm Lachlan</h3>
+<h4 align="center">:wave:</h4>
+<p align="center">
+  <a href="https://lwaugh.io">lwaugh.io</a>
+  •
+  <a href="mailto:lachlanwaugh8@gmail.com">lachlanwaugh8@gmail.com</a>
+</p>
 
 <div align="center">
     <a href="#">
