@@ -1,8 +1,8 @@
 <h3 align="center">Hello there! I'm Lachlan :wave:</h3>
 <p align="center">
-  <a href="https://lwaugh.io">lwaugh.io</a>
+  <a href="https://waugh.zip">waugh.zip</a>
   •
-  <a href="mailto:lachlanwaugh8@gmail.com">lachlanwaugh8@gmail.com</a>
+  <a href="mailto:lachlanwaugh8@gmail.com">lachlan@waugh.zip</a>
 </p>
 
 <div align="center">
