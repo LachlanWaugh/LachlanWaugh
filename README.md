@@ -1,5 +1,6 @@
 <h3 align="center">Hello there! I'm Lachlan :wave:</h3>
 <p align="center">
+  <!-- something something I can center a div -->
   <a href="https://waugh.zip">waugh.zip</a>
   •
   <a href="mailto:lachlanwaugh8@gmail.com">lachlan@waugh.zip</a>
